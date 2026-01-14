@@ -18,6 +18,9 @@ body {
   margin: auto;
   text-align: center;
   height: 100vh;
+  transform: scale(0.8);
+  -webkit-transform: scale(0.8);
+  -moz-transform: scale(0.8)
 }
 
 p {
