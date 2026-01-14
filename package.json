@@ -1,6 +1,7 @@
 {
   "name": "bday-invite",
   "version": "0.1.0",
+  "homepage": "https://marjosobrecaray.github.io/birthday-invite",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
