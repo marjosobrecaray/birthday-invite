@@ -132,3 +132,16 @@ a {
   0%, 100% { opacity: 1; transform: scale(1.1); }
   50% { opacity: 0.3; transform: scale(1); }
 }
+
+.note {
+  width: 100%;
+  margin-top: 1rem;
+  margin: auto;
+}
+
+.note p {
+  font-size: 1em;
+  font-weight: normal;
+  font-style: italic;
+  margin: 1rem
+}

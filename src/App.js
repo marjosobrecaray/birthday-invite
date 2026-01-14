@@ -34,6 +34,9 @@ function App() {
           </div>
         </div>
 
+        <div className="block note">
+          <p>Note: Bring swimming clothes and floaties, kids!</p>
+        </div>
 
         <div className="cake-container">
           <img src={flame} className="flame"/>
