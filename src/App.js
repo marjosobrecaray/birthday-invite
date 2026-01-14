@@ -10,7 +10,7 @@ function App() {
     <div className="App">
 
       <div className="body">
-        <p>You are invited!</p>
+        <p>YOU ARE INVITED!</p>
         <div className="name">DAN EMMANUEL</div>
         <div className="title">is turning 5</div>
 
